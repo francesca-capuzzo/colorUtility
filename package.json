@@ -1,0 +1,19 @@
+{
+  "name": "@francesca-capuzzo/color-utility",
+  "version": "1.0.1",
+  "description": "just a simple color utility library for web development",
+  "main": "color-utility.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francesca-capuzzo/colorUtility.git"
+  },
+  "author": "francesca-capuzzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francesca-capuzzo/colorUtility/issues"
+  },
+  "homepage": "https://github.com/francesca-capuzzo/colorUtility#readme"
+}
